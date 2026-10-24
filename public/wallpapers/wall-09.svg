@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1600" preserveAspectRatio="xMidYMid slice">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17152e"/><stop offset=".55" stop-color="#7c42ab"/><stop offset="1" stop-color="#17152e"/></linearGradient>
+ <radialGradient id="v"><stop stop-color="#ffacfc" stop-opacity=".22"/><stop offset="1" stop-color="#ffacfc" stop-opacity="0"/></radialGradient>
+ <pattern id="scan" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 0H10" stroke="white" opacity=".05"/></pattern>
+</defs>
+<rect width="900" height="1600" fill="url(#bg)"/>
+<ellipse cx="234" cy="1217" rx="720" ry="920" fill="url(#v)"/>
+<path d="M0 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M65 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M130 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M195 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M260 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M325 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M390 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M455 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M520 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M585 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M650 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M715 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M780 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M845 0 V1600" stroke="#ffacfc" stroke-opacity=".25" stroke-width="1"/>
+<path d="M0 0 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 65 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 130 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 195 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 260 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 325 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 390 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 455 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 520 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 585 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 650 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 715 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 780 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 845 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 910 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 975 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1040 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1105 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1170 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1235 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1300 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1365 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1430 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1495 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<path d="M0 1560 H900" stroke="#ffacfc" stroke-opacity=".22" stroke-width="1"/>
+<polygon points="813,447 1188,347 1000,822" fill="#ffacfc" fill-opacity="0.03"/><polygon points="30,189 286,89 158,445" fill="#ffacfc" fill-opacity="0.03"/><polygon points="485,-259 1094,-359 789,350" fill="#ffacfc" fill-opacity="0.03"/><polygon points="523,82 788,-18 655,347" fill="#ffacfc" fill-opacity="0.03"/><polygon points="517,1143 878,1043 697,1504" fill="#ffacfc" fill-opacity="0.03"/><polygon points="280,823 873,723 576,1416" fill="#ffacfc" fill-opacity="0.03"/><polygon points="142,-41 405,-141 273,222" fill="#ffacfc" fill-opacity="0.03"/><polygon points="668,-209 1094,-309 881,217" fill="#ffacfc" fill-opacity="0.03"/><polygon points="-113,-265 512,-365 199,360" fill="#ffacfc" fill-opacity="0.03"/><polygon points="-136,1289 259,1189 61,1684" fill="#ffacfc" fill-opacity="0.03"/>
+<rect width="900" height="1600" fill="url(#scan)"/>
+</svg>

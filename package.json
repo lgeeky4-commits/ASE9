@@ -1,0 +1,17 @@
+{
+  "name": "crimson-chat-map",
+  "version": "2.6.0",
+  "description": "ASE Crimson Chat v2.6: disconnect cleanup, opt-in scripted cybersecurity training puzzle and alarms, no emojis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
